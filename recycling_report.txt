@@ -1,0 +1,8 @@
+RecycleTrack - Sorting Efficiency Report
+Date range: 2026-01-01 to 2026-01-31
+Bad lines skipped: 2
+----------------------------------------------------------------
+Material     Entries  Total kg  Contam kg   Eff %  Status
+----------------------------------------------------------------
+No entries found for this date range.
+----------------------------------------------------------------

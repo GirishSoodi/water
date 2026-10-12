@@ -1,0 +1,11 @@
+date,material,weight_kg,contamination_kg
+2025-03-01,plastic,100,10
+2025-03-01,glass,80,4
+2025-03-01,paper,60,15
+2025-03-02,Plastic,50,5
+2025-03-02,metal,40,2
+2025-03-02,paper,abc,3
+2025-03-03,glass,70,3.5
+2025-03-03,cardboard
+2025-03-04,paper,90,20
+2025-03-04,metal,30,12
